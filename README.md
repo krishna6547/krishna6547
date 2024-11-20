@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @krishna6547
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-
 
 <!---
 krishna6547/krishna6547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
